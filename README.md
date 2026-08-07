@@ -107,4 +107,5 @@ Whether you're a recruiter, hiring manager, fellow data professional, researcher
 
 I believe meaningful analytics begins with asking the right questions, validating data, and building solutions that organizations can trust - today and into the future.
 
-It is a privilege to have you spend your valuable time exploring my work, and I sincerely
+It is a privilege to have you spend your valuable time exploring my work, and I sincerely appreciate your visit. I hope you find something here that is useful, informative, or inspires a new way of thinking. This portfolio will continue to grow as I publish new projects, research, and technical content.
+
