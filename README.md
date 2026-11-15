@@ -1,6 +1,6 @@
 # Hi, I'm Shafiq Rahman 👋
 
-**Founder & Principal Consultant \| ARRAN — Enterprise Data Consulting**
+**Founder & Principal Consultant \| ARRAN - Enterprise Data Consulting**
 
 Welcome to my GitHub\!
 
@@ -103,7 +103,7 @@ Whether performing independent data assessments, validating migrated data, inves
 
 ### Enterprise Data Migration Validation, Controls & Reconciliation
 
-*Customer Billing Platform Migration — Post-Migration Data Quality Assurance*
+*Customer Billing Platform Migration - Post-Migration Data Quality Assurance*
 
 A simulated real-world enterprise consulting engagement focused on post-migration data profiling, quality assessment, validation, controls verification, and source-to-target reconciliation of customer, account, and financial transaction data.
 
@@ -127,12 +127,12 @@ Although this project uses a simulated engagement scenario and synthetic data, t
 
 The engagement includes the following technical documentation and supporting deliverables for Customers, Accounts, and Transactions:
 
-1. Cross-Document Reference — Provides references and traceability across validation workpapers, confirmed exceptions, and supporting evidence.  
-2. Target Validation Workpaper — Documents validation objectives, business rules, SQL-based checks, reconciliation results, observations, and findings.  
-3. Confirmed Exception Log — Records verified discrepancies, applicable business rules, exception classifications, and supporting references.  
-4. Supporting Exception Evidence — Provides reproducible SQL queries, investigation details, and supporting results for confirmed exceptions.  
-5. SQL Validation & Reconciliation Scripts — Contains the technical queries used for data profiling, business-rule validation, control checks, source-to-target comparison, and discrepancy investigation.  
-6. Final Validation Summary — Consolidates validation results, reconciliation outcomes, material exceptions, unresolved items, and the overall migration acceptance assessment.
+1. Cross-Document Reference - Provides references and traceability across validation workpapers, confirmed exceptions, and supporting evidence.  
+2. Target Validation Workpaper - Documents validation objectives, business rules, SQL-based checks, reconciliation results, observations, and findings.  
+3. Confirmed Exception Log - Records verified discrepancies, applicable business rules, exception classifications, and supporting references.  
+4. Supporting Exception Evidence - Provides reproducible SQL queries, investigation details, and supporting results for confirmed exceptions.  
+5. SQL Validation & Reconciliation Scripts - Contains the technical queries used for data profiling, business-rule validation, control checks, source-to-target comparison, and discrepancy investigation.  
+6. Final Validation Summary - Consolidates validation results, reconciliation outcomes, material exceptions, unresolved items, and the overall migration acceptance assessment.
 
 **Project Disclosure:** This project uses fictional organizations, systems, and representative data. The technical analysis, SQL validation, reconciliation, investigation, and documentation were performed as part of a simulated real-world consulting engagement.
 
@@ -140,7 +140,7 @@ Additional projects will be published as they are completed and documented.
 
 ## Contact & Professional Links
 
-**ARRAN — Enterprise Data Consulting**
+**ARRAN - Enterprise Data Consulting**
 
 Website: [https\://arranusa.com](https://arranusa.com)
 
