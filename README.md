@@ -1,111 +1,157 @@
 # Hi, I'm Shafiq Rahman 👋
-**Welcome to my GitHub!**
 
-For over a decade, I have worked with enterprise data, helping organizations design, support, analyze, and improve business-critical data solutions. My professional background spans SQL Server Database Administration (Global Enterprise Production Support), Data Analysis and Analytics, Business Intelligence, Reporting Automation, and Modern Cloud Data Platforms.
+**Founder & Principal Consultant \| ARRAN — Enterprise Data Consulting**
 
-Throughout my career, I have supported large enterprise environments, developed data-driven regulatory and non-regulatory reporting solutions, automated business processes, collaborated with business and audit stakeholders, and transformed complex data into reliable information that supports operational excellence and strategic decision-making.
+Welcome to my GitHub\!
 
-Today, my work focuses on Microsoft Fabric and modern analytics engineering - a natural progression of traditional data analysis and analytics into today's cloud-based data platforms. While embracing modern technologies and architectures, my aim remains the same: understanding business challenges, designing trusted data solutions, and enabling better decisions through data.
+## About Me & ARRAN
 
-Alongside developing modern data solutions, I conduct independent research focused on industry, business, public health, and economic topics using publicly available datasets and rigorous analytical methods. My work emphasizes consulting-quality analysis, thorough data validation, and evidence-based decision-making. This GitHub repository serves as the foundation for a growing collection of my technical projects, research, and analytical publications.
+I am the Founder and Principal Consultant of **ARRAN**, an independent, founder-led enterprise data consulting practice focused on helping organizations understand, assess, validate, and improve the reliability of their enterprise data.
 
-## What You'll Find Here
+ARRAN provides specialized consulting services in data quality, validation, reconciliation, data controls, migration assurance, data analysis, and analytics engineering.
 
-This portfolio showcases how I approach real-world data and analytics challenges through independent research, consulting-oriented projects, and modern data platform solutions.
+Our work focuses on identifying and investigating data quality issues, validating business rules and transformations, reconciling differences across systems and data sources, and assessing data accuracy, completeness, and consistency.
 
-- Independent Research & Data-Driven Studies
-- End-to-End Microsoft Fabric Solutions
-- Consulting-Oriented Analytics Projects
-- Modern Data Engineering & Analytics Workflows
-- Data Analysis & Business Intelligence
-- SQL Server, T-SQL & Spark SQL Solutions
-- Data Modeling & Semantic Models
-- Power BI Dashboards & Executive Reporting
-- Enterprise Reporting & Business Process Automation
-- Technical Documentation & Implementation Guides
-- Data Validation, Quality Assurance & Governance
-  
-Whether through independent research or technical implementation, each project emphasizes business understanding, data quality, scalable architecture, reproducible methodologies, and practical problem solving rather than simply demonstrating technical features.
+Through structured analysis, systematic validation, and documented evidence, ARRAN helps organizations gain a clearer understanding of their data and identify areas that require attention.
 
-## Core Technologies
+**ARRAN's guiding principle:**
 
-### Microsoft Fabric Platform
+*Arranged for Accuracy. Validated for Confidence.*
 
-- Microsoft Fabric
-- Medallion Architecture
-- OneLake
-- Lakehouse
-- Data Warehouse
-- SQL Analytics Endpoint
-- Data Pipelines
-- Dataflow Gen2
-- Star Schema
-- Semantic Models
-- Direct Lake
-- Power BI
-  
-### Data Technologies
+Website: [https\://arranusa.com](https://arranusa.com)
 
-- SQL Server
-- T-SQL
-- Spark SQL
-- DAX
-- ETL & ELT
-- Data Modeling
-- Dimensional Modeling
-- Analytics Engineering
-- Data Analysis & Analytics
-- Business Intelligence
-  
-## Areas of Interest
+## Professional Background
 
-- Data Engineering
-- Data Analysis & Analytics
-- Business Intelligence
-- Enterprise Data Platforms
-- Data Architecture
-- Data Integration
-- Data Security
-- Business Process Automation
-- KPI & Executive Reporting
-- Regulatory & Operational Reporting
-- Data Quality & Governance
-- Performance Optimization
-- Independent Research
-- Data Strategy
-- Analytics Consulting
-- Technical Documentation
-  
+For over a decade, I have worked with enterprise data across SQL Server Database Administration, Data Analysis, Business Intelligence, reporting automation, and enterprise data platforms.
+
+My professional experience includes supporting business-critical SQL Server environments, developing analytical and operational reporting solutions, investigating complex data issues, collaborating with business and audit stakeholders, and supporting data-driven processes in large enterprise environments.
+
+My work has included financial services, enterprise operations, and federally regulated healthcare-related programs.
+
+Today, I bring that experience into ARRAN, combining hands-on technical analysis with structured consulting practices, clear documentation, and evidence-based findings.
+
+## ARRAN Consulting Services
+
+ARRAN offers specialized enterprise data consulting services across the following areas:
+
+- Data Validation  
+- Data Reconciliation  
+- Data Quality & Cleanup  
+- KPI / Report Validation  
+- Data Profiling & Assessment  
+- Migration QA / Source-to-Target Validation  
+- Data Mapping & Transformation Validation  
+- Data Controls Monitoring  
+- Data Analysis & Investigation  
+- Analytics Engineering & Data Modeling
+
+ARRAN works with organizations directly and can also support established consulting firms as a specialized delivery partner.
+
+For detailed service descriptions, visit [https\://arranusa.com](https://arranusa.com).
+
+## ARRAN's Relevance in the AI Era
+
+As Artificial Intelligence (AI), agentic AI, and automation continue to evolve, the importance of accurate, reliable, and independently validated enterprise data remains essential.
+
+While these technologies can accelerate data processing, analysis, and validation activities, organizations still need to establish whether business rules have been applied correctly, data has been accurately transformed, differences between systems have been properly reconciled, and results can be trusted.
+
+ARRAN focuses on these fundamental responsibilities through independent data assessment, validation, reconciliation, controls verification, and evidence-based investigation.
+
+Our approach recognizes the value of AI and automation while emphasizing the continued importance of professional judgment, business understanding, and documented evidence in establishing confidence in enterprise data.
+
+## Core Technologies & Technical Expertise
+
+### SQL Server & Enterprise Data
+
+- Microsoft SQL Server and T-SQL  
+- SQL-based Data Analysis and Investigation  
+- Data Profiling, Quality Assessment, and Validation  
+- Source-to-Target Reconciliation  
+- Business Rules and Data Transformation Validation  
+- Data Modeling and Dimensional Modeling  
+- ETL / ELT and Data Integration Concepts  
+- Reporting Automation and Business Intelligence
+
+### Microsoft Fabric & Analytics Technologies
+
+- Microsoft Fabric  
+- OneLake, Lakehouse, and Data Warehouse  
+- Data Pipelines and Dataflow Gen2  
+- Spark SQL  
+- Semantic Models and Direct Lake  
+- Power BI and DAX  
+- Analytical Data Modeling and Reporting
+
+These technologies represent my broader technical background and reflect my ‘Learning Never Ends’ philosophy and commitment to continuous professional development. ARRAN's consulting engagements are guided by specific business requirements, available systems, and the agreed scope of work.
+
 ## My Approach
 
-Technology is valuable only when it helps organizations solve meaningful business problems and make better decisions. Whether designing enterprise data platforms, developing analytical solutions, conducting independent research, or building modern data engineering workflows, my approach remains consistent:
+Technology is valuable when it helps organizations solve meaningful business problems and make better decisions.
 
-- Understand the business problem and objectives.
-- Design scalable, reliable, and maintainable solutions.
-- Validate data, assumptions, and results.
-- Document methodologies and implementation clearly.
-- Transform data into trusted information and business value.
-- Deliver work that organizations can rely on with confidence.
-  
-## My Areas of Work
+Whether performing independent data assessments, validating migrated data, investigating discrepancies, or developing analytical solutions, my approach remains simple, focused, and consistent:
 
-- Designing consulting-quality Microsoft Fabric solutions
-- Conducting independent analytics research
-- Developing business-focused dashboards and analytical solutions
-- Publishing technical documentation and implementation guides
-- Building reusable data engineering and analytics frameworks
-- Sharing practical approaches to modern data engineering and analytics
-- Exploring, evaluating, and adopting modern enterprise data platform capabilities
+- Understand the business problem and objectives.  
+- Examine the available data, business rules, and supporting specifications.  
+- Apply structured analysis and appropriate validation techniques.  
+- Investigate discrepancies and distinguish confirmed findings from assumptions.  
+- Document methodologies, supporting evidence, and results clearly.  
+- Deliver findings that organizations can understand, review, and act upon.
+
+**Structured analysis. Documented evidence. Clear findings. Auditable results.**
 
 ## Featured Projects
 
-This section is currently being populated. Each repository will include comprehensive project documentation, architecture, implementation details, and business context to provide a consulting-quality view of the solution. Additional projects, research, and technical publications will be added as they are completed and documented. 
+### Enterprise Data Migration Validation, Controls & Reconciliation
+
+*Customer Billing Platform Migration — Post-Migration Data Quality Assurance*
+
+A simulated real-world enterprise consulting engagement focused on post-migration data profiling, quality assessment, validation, controls verification, and source-to-target reconciliation of customer, account, and financial transaction data.
+
+The engagement involved validating migration scope and business rules, verifying data mappings and transformations, assessing data completeness, accuracy, uniqueness, and referential integrity, reconciling control totals, investigating discrepancies, and documenting confirmed exceptions with reproducible SQL queries and supporting evidence.
+
+Although this project uses a simulated engagement scenario and synthetic data, the scope of work, methodologies, validation processes, and deliverables closely reflect the practices followed in real-world enterprise data migration engagements. The project demonstrates the type of consulting services ARRAN offers and is prepared to deliver to its clients.
+
+**The project demonstrates:**
+
+- Source and target data profiling and assessment  
+- Migration scope and business-rule validation  
+- Data completeness, uniqueness, and integrity checks  
+- Source-to-target data reconciliation  
+- Data mapping and transformation validation  
+- Data quality and control assessments  
+- SQL-based discrepancy investigation  
+- Confirmed exception logs and supporting evidence  
+- Structured validation workpapers and documented findings
+
+### Project Deliverables
+
+The engagement includes the following technical documentation and supporting deliverables for Customers, Accounts, and Transactions:
+
+1. Cross-Document Reference — Provides references and traceability across validation workpapers, confirmed exceptions, and supporting evidence.  
+2. Target Validation Workpaper — Documents validation objectives, business rules, SQL-based checks, reconciliation results, observations, and findings.  
+3. Confirmed Exception Log — Records verified discrepancies, applicable business rules, exception classifications, and supporting references.  
+4. Supporting Exception Evidence — Provides reproducible SQL queries, investigation details, and supporting results for confirmed exceptions.  
+5. SQL Validation & Reconciliation Scripts — Contains the technical queries used for data profiling, business-rule validation, control checks, source-to-target comparison, and discrepancy investigation.  
+6. Final Validation Summary — Consolidates validation results, reconciliation outcomes, material exceptions, unresolved items, and the overall migration acceptance assessment.
+
+**Project Disclosure:** This project uses fictional organizations, systems, and representative data. The technical analysis, SQL validation, reconciliation, investigation, and documentation were performed as part of a simulated real-world consulting engagement.
+
+Additional projects will be published as they are completed and documented.
+
+## Contact & Professional Links
+
+**ARRAN — Enterprise Data Consulting**
+
+Website: [https\://arranusa.com](https://arranusa.com)
+
+LinkedIn: [https\://www\.linkedin.com/in/shafiqrahman1716/](https://www.linkedin.com/in/shafiqrahman1716/)
+
+GitHub: [https\://github.com/shafiq-rahman1716](https://github.com/shafiq-rahman1716)
 
 ## Thank You
 
-Whether you're a recruiter, hiring manager, fellow data professional, researcher, or potential consulting client, this portfolio showcases projects, research, and documentation that reflect both my technical capabilities and my approach to solving real-world business and data challenges.
+Thank you for taking the time to explore my GitHub profile.
 
-I believe meaningful analytics begins with asking the right questions, validating data, and building solutions that organizations can trust - today and into the future.
+I hope the projects, technical work, and documentation shared here provide a useful understanding of my professional experience, analytical approach, and the consulting capabilities behind ARRAN.
 
-It is a privilege to have you spend your valuable time exploring my work, and I sincerely appreciate your visit. I hope you find something here that is useful, informative, or inspires a new way of thinking. This portfolio will continue to grow as I publish new projects, research, and technical content.
-
+I welcome opportunities to connect with organizations, consulting partners, and fellow data professionals who value accuracy, transparency, and reliable enterprise data.
